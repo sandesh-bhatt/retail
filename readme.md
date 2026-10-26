@@ -1,0 +1,1 @@
+in this project the raw data is cleaned and the eda is performed in it
